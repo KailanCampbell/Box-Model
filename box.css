@@ -1,6 +1,11 @@
+body {
+text-align: center;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
 .box-potato {
-background-color: #e8ba2e;
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg");
+background-size: 85vw 15vh;
 padding: 20px;
-border: 20px solid #000000;
+border: 5px solid #000000;
 margin: 20px;
 }
