@@ -5,30 +5,35 @@ div {
 }
 .box-potato {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg");
+  background-size: contain;
   padding: 20px;
   border: 5px solid #000000;
   margin: 20px;
 }
 .box-olive {
   background-image: url("https://newsouthcharm.com/wp-content/uploads/2018/12/Garlic-and-Herb-Marinated-Olives-.jpg");
+  background-size: contain;
   padding: 30px;
   border: 10px solid #a80541;
   margin: 15px;
 }
 .box-carrot {
   background-image: url("https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2023-11-honey-glazed-carrots%2F33086-Honey-Glazed-Carrots");
+  background-size: contain;
   padding: 10px;
   border: 20px solid #a86c05;
   margin: 30px;
   }
 .box-pepper {
   background-image: url("https://www.jessicagavin.com/wp-content/uploads/2019/05/types-of-peppers-1.jpg");
+  background-size: contain;
   padding: 5px;
   border: 5px solid #138207;
   margin: 5px;
 }
 .box-onion {
   background-image: url("https://hips.hearstapps.com/hmg-prod/images/del-lead-whictypeofonionshouldyouuse-r1-65eb71750b6ff.jpg?crop=0.74xw:1xh;center,top&resize=1200:*");
+  background-size: contain;
   padding: 12px;
   border: 12px solid #d4b8f2;
   margin: 12px;
