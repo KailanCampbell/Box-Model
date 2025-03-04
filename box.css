@@ -1,17 +1,18 @@
 div {
 text-align: center;
 color: white;
-text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 .box-potato {
 background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg");
 padding: 20px;
 border: 5px solid #000000;
 margin: 20px;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 .box-olives {
   background-image: url("https://newsouthcharm.com/wp-content/uploads/2018/12/Garlic-and-Herb-Marinated-Olives-.jpg");
   padding: 30px;
   border: 10px solid #a80541;
   margin: 15px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
