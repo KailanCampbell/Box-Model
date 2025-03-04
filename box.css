@@ -1,6 +1,6 @@
 div {
   text-align: center;
-  color: white;
+  color: black;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 .box-potato {
@@ -9,7 +9,7 @@ div {
   border: 5px solid #000000;
   margin: 20px;
   background-size: contain;
-  height: 600px;
+  height: 200px;
 }
 .box-olive {
   background-image: url("https://newsouthcharm.com/wp-content/uploads/2018/12/Garlic-and-Herb-Marinated-Olives-.jpg");
@@ -17,7 +17,7 @@ div {
   border: 10px solid #a80541;
   margin: 15px;
   background-size: contain;
-  height: 600px;
+  height: 250px;
 }
 .box-carrot {
   background-image: url("https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2023-11-honey-glazed-carrots%2F33086-Honey-Glazed-Carrots");
@@ -33,7 +33,7 @@ div {
   border: 5px solid #138207;
   margin: 5px;
   background-size: contain;
-  height: 300px;
+  height: 225px;
 }
 .box-onion {
   background-image: url("https://hips.hearstapps.com/hmg-prod/images/del-lead-whictypeofonionshouldyouuse-r1-65eb71750b6ff.jpg?crop=0.74xw:1xh;center,top&resize=1200:*");
@@ -41,5 +41,5 @@ div {
   border: 12px solid #d4b8f2;
   margin: 12px;
   background-size: contain;
-  height: 300px;
+  height: 250px;
 }
